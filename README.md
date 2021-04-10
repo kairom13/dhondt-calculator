@@ -1,4 +1,4 @@
-# dhondt-calculator
+# D'Hondt Calculator
 A Python Script that distributes electoral seats using the D'Hondt Method
 
 According to Wikipedia: "The D'Hondt method... is a highest averages method for allocating seats in an electoral system and thus a type of party-list proportional representation." Many places use this method to allocate seats after an election.
@@ -6,7 +6,6 @@ According to Wikipedia: "The D'Hondt method... is a highest averages method for 
 You can use this calculator to get allocated seats of a hypothetical election using the D'Hondt method. 
 
 **FORMATTING**
-
 Make sure you use the following format or else the calculator will not work.
 
 1) The file must be a CSV
