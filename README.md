@@ -5,7 +5,9 @@ According to Wikipedia: "The D'Hondt method... is a highest averages method for 
 
 You can use this calculator to get allocated seats of a hypothetical election using the D'Hondt method. 
 
+
 **FORMATTING**
+
 Make sure you use the following format or else the calculator will not work.
 
 1) The file must be a CSV
